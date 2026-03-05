@@ -45,7 +45,8 @@
           "microphonePermission": "Allow app to access your microphone for voice input.",
           "enableBackgroundRecording": false
         }
-      ]
+      ],
+      "expo-asset"
     ]
   }
 }
